@@ -1,1 +1,1 @@
-This project is for Vagrant project
+This repository is for Vagrant project
